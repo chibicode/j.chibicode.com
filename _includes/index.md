@@ -51,7 +51,7 @@
 
 講演の最後に、[Udacity](https://www.udacity.com/)というオンライン大学授業プラットフォームの[コンピューターサイエンス入門の授業](https://www.udacity.com/course/cs101)を生徒と一緒にやりました。この授業は現在は有料になってしまいましたが、当時は無料だったのです。
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/30476181" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/30476181" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen style="max-width: 100%;"></iframe>
 
 ## 奥付
 
