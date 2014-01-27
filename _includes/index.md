@@ -1,4 +1,4 @@
-シリコンバレーで働くデザイナーです。
+シリコンバレーではたらくデザイナーです。
 
 <a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large" data-lang="ja">@chibicodeさんをフォロー</a>
 
@@ -7,21 +7,32 @@
 ## 略歴
 
 * 1988年1月26日生まれ
-* 2000年~現在 米国
-* カーネギーメロン大学学士・修士卒
-* 2012年に4ヶ月間日本でニート
-* 2012年9月からシリコンバレーの教育系ベンチャー[EdSurge](http://www.edsurge.com/)社でデザイナー
+* 2000年から現在まで米国在住
+* カーネギーメロン大学修士卒
+* 2012年に日本の実家でニート経験
+* 2012年9月からシリコンバレーの教育系ベンチャー・[EdSurge](http://www.edsurge.com/)社でデザイナー
 
 ## 書いたもの
 
-* [ブログ](http://naze.chibicode.com/)。2013年にいちばん読まれた記事は[こちら](http://naze.chibicode.com/post/66112027707/y)。2万PVくらい。
-* [自分の仕事術や読書リストなど](http://waza.chibicode.com/)。
-* [メガネが壊れたときの話](http://medium.com/@chibicode)。Medium.comで公開している日本語記事。
-* [昔、エンジニアTypeで連載していたときの記事](http://engineer.typemag.jp/category/knowhow/from_silicon_valley)。
+* **[ブログ](http://naze.chibicode.com/)**
+
+  2013年に一番読まれた記事は[こちら](http://naze.chibicode.com/post/66112027707/y)。2万PVほど。
+
+* **[Waza](http://waza.chibicode.com/)**
+
+  自分の仕事術や読書リストを公開しています。
+
+* **[メガネが壊れたときの話](http://medium.com/@chibicode)**
+
+  Medium.comで公開している日本語記事です。
+
+* **[エンジニアTypeの連載](http://engineer.typemag.jp/category/knowhow/from_silicon_valley)**
+
+  2012年に寄稿していました。
 
 ## 連絡先
 
-* <a href="mailto:shu@chibicode.com">Email</a>
+* <a href="mailto:shu@chibicode.com">shu@chibicode.com</a>
 * <a href="http://twitter.com/chibicode" target="_blank">Twitter</a>
 * <a href="http://facebook.com/shu" target="_blank">Facebook</a>
 * <a href="http://github.com/chibicode" target="_blank">GitHub</a>
