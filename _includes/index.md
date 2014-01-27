@@ -32,12 +32,12 @@
 
 ## 連絡先
 
-* <a href="mailto:shu@chibicode.com">shu@chibicode.com</a>
-* <a href="http://twitter.com/chibicode" target="_blank">Twitter</a>
-* <a href="http://facebook.com/shu" target="_blank">Facebook</a>
-* <a href="http://github.com/chibicode" target="_blank">GitHub</a>
-* <a href="http://www.linkedin.com/in/chibicode" target="_blank">LinkedIn</a>
-* <a href="https://plus.google.com/110325199858284431541?rel=author" target="_blank">Google+</a>
+* [shu@chibicode.com](mailto:shu@chibicode.com)
+* [Twitter](http://twitter.com/chibicode)
+* [Facebook](http://facebook.com/shu)
+* [GitHub](http://github.com/chibicode)
+* [LinkedIn](http://www.linkedin.com/in/chibicode)
+* [Google+](https://plus.google.com/110325199858284431541?rel=author)
 
 ## 奥付
 
