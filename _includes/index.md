@@ -45,6 +45,14 @@
 
 <blockquote class="twitter-tweet" lang="en"><p>アップルで働くまで、イノベーションというのは「今にない、新しいものを作ること」だと思ってた。でもそれは違って、イノベーションというのは「未来にある普通のものを作ること」なのです。この違いを理解できるまでかなり時間がかかった。</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/statuses/33769337827368960">February 5, 2011</a></blockquote>
 
+## 講演
+
+2013年7月、大阪の天王寺高校にて、アメリカの大学に進学することについて講演したときのスライドです。主旨は、「アメリカの大学に進学することを考えたことはありますか?」「考えたことは無くても、オンラインでアメリカの名門大学の授業を受講できると知っていましたか」というものです。
+
+講演の最後に、[Udacity](https://www.udacity.com/)というオンライン大学授業プラットフォームの[コンピューターサイエンス入門の授業](https://www.udacity.com/course/cs101)を生徒と一緒にやりました。現在は有料授業になってしまいましたが、当時は無料だったのです。
+
+<script async class="speakerdeck-embed" data-slide="2" data-id="e9703bd0d3440130518f5e137e2d33a2" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 ## 奥付
 
 このページは[Solo](https://github.com/chibicode/solo)という[Jekyll](http://jekyllrb.com/)のテーマで作成され、[GitHub](https://github.com/chibicode/waza.chibicode.com)でホスティングされています。
