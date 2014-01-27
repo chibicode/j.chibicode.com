@@ -16,7 +16,7 @@
 
 * **[日本語ブログ (naze.chibicode.com)](http://naze.chibicode.com/)**
 
-  2013年に一番読まれた記事は[こちら](http://naze.chibicode.com/post/66112027707/y)。2万PVほど。
+  このブログで一番読まれた記事は[こちらです](http://naze.chibicode.com/post/66112027707/y)。
 
 * **[Waza (waza.chibicode.com)](http://waza.chibicode.com/)**
 
