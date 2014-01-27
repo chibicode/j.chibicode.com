@@ -1,8 +1,8 @@
 シリコンバレーではたらくデザイナーです。顔のアザは生まれつきです。英語の自己紹介は[こちらです](http://chibicode.com)。
 
-<a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large" data-lang="ja">@chibicodeさんをフォロー</a>
-
 [Read in English](http://chibicode.com)
+
+<a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large" data-lang="ja">@chibicodeさんをフォロー</a>
 
 ![Shu Uesugi](http://chibicode.com/images/shu-uesugi.jpg)
 
