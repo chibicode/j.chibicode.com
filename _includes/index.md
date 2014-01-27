@@ -2,6 +2,8 @@
 
 <a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large" data-lang="ja">@chibicodeさんをフォロー</a>
 
+[Read in English](http://chibicode.com)
+
 ![Shu Uesugi](http://chibicode.com/images/shu-uesugi.jpg)
 
 ## 略歴
