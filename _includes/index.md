@@ -39,6 +39,12 @@
 * [LinkedIn](http://www.linkedin.com/in/chibicode)
 * [Google+](https://plus.google.com/110325199858284431541?rel=author)
 
+## 反響のあったツイート
+
+<blockquote class="twitter-tweet" lang="en"><p>都知事選のグラフ作りました。東京都の人口ピラミッド/前都知事選の年代別推定投票率/候補者の年齢 <a href="https://twitter.com/hbkr">@hbkr</a> <a href="http://t.co/As7jnI61xR">pic.twitter.com/As7jnI61xR</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/statuses/426280504770306048">January 23, 2014</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p>アップルで働くまで、イノベーションというのは「今にない、新しいものを作ること」だと思ってた。でもそれは違って、イノベーションというのは「未来にある普通のものを作ること」なのです。この違いを理解できるまでかなり時間がかかった。</p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/statuses/33769337827368960">February 5, 2011</a></blockquote>
+
 ## 奥付
 
 このページは[Solo](https://github.com/chibicode/solo)という[Jekyll](http://jekyllrb.com/)のテーマで作成され、[GitHub](https://github.com/chibicode/waza.chibicode.com)でホスティングされています。
