@@ -22,7 +22,7 @@
 
   自分の仕事術や読書リストを公開しています。
 
-* **[メガネが壊れたときの話](http://medium.com/@chibicode)**
+* **[メガネが壊れたときの話](https://medium.com/in-japanese/b5c7fcb1d21a)**
 
   Medium.comで公開している日本語記事です。
 
