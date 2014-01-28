@@ -53,11 +53,8 @@
 
 ## 講演
 
-2013年7月、大阪の天王寺高校にて、アメリカの大学に進学することについて講演したときのスライドです。主旨は「アメリカの大学に進学することを考えたことはありますか」「考えたことは無くても、オンラインでアメリカの名門大学の授業を無料で受講できると知っていましたか」というものです。
+<div class="fb-post" data-href="https://www.facebook.com/shu/posts/3740524991493" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/shu/posts/3740524991493">Post</a> by <a href="https://www.facebook.com/shu">Shu Uesugi</a>.</div></div>
 
-講演の最後に、[Udacity](https://www.udacity.com/)というオンライン大学授業プラットフォームの[コンピューターサイエンス入門の授業](https://www.udacity.com/course/cs101)を生徒と一緒にやりました。この授業は現在は有料になってしまいましたが、当時は無料だったのです。
-
-<iframe src="http://www.slideshare.net/slideshow/embed_code/30476181" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ## 奥付
 
