@@ -32,6 +32,10 @@
 
   2012年に寄稿していました。一番読まれた記事は[こちらです](http://engineer.typemag.jp/article/shusaku-uesugi-5)。
 
+* **[Teaching Someone To Code Is Partly A Hardware Problem](https://medium.com/what-i-learned-building/fe6a2067d770)**
+
+  Medium.comで公開した英語記事です。2013年8月にMedium.com上で最も読まれた記事Top50に[ランクインしました](https://medium.com/top-100/august-2013)。
+
 ## 連絡先
 
 * [shu@chibicode.com](mailto:shu@chibicode.com)
