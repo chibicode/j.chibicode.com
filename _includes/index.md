@@ -18,7 +18,7 @@
 
 * **[日本語ブログ (naze.chibicode.com)](http://naze.chibicode.com/)**
 
-  このブログで一番読まれた記事は「[Yコンビネーター主催のイベントに参加してから、「たたかう」と「にげる」について考えるようになったという話](http://naze.chibicode.com/post/66112027707/y)」です。2万人弱に読まれました。
+  このブログで一番読まれた記事は[Yコンビネーター主催のイベントに参加してから、「たたかう」と「にげる」について考えるようになったという話](http://naze.chibicode.com/post/66112027707/y)です。2万人弱に読まれました。
 
 * **[Waza (waza.chibicode.com)](http://waza.chibicode.com/)**
 
