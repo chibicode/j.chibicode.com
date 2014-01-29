@@ -55,8 +55,6 @@
 
 #### 大阪府立天王寺高等学校での講演「アメリカの大学について」2013/7/19
 
-[講演についての補足はこちらです](https://www.facebook.com/shu/posts/3740524991493)。
-
 <iframe src="http://www.slideshare.net/slideshow/embed_code/30476181" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ## 奥付
