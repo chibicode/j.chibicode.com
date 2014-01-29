@@ -53,7 +53,7 @@
 
 ## 講演
 
-<div class="fb-post" data-href="https://www.facebook.com/shu/posts/3740524991493" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/shu/posts/3740524991493">Post</a> by <a href="https://www.facebook.com/shu">Shu Uesugi</a>.</div></div>
+<div id="fb-root"></div><div class="fb-post" data-href="https://www.facebook.com/shu/posts/3740524991493" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/shu/posts/3740524991493">Post</a> by <a href="https://www.facebook.com/shu">Shu Uesugi</a>.</div></div>
 
 
 ## 奥付
