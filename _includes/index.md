@@ -2,7 +2,7 @@
 
 [Read in English](http://chibicode.com)
 
-<a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large" data-lang="ja">@chibicodeさんをフォロー</a>
+<a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large" data-lang="ja"></a>
 
 ![Shu Uesugi](http://chibicode.com/images/shu-uesugi.jpg)
 
@@ -59,5 +59,7 @@
 ## 奥付
 
 このページは[Solo](https://github.com/chibicode/solo)という[Jekyll](http://jekyllrb.com/)のテーマで作成され、[GitHub](https://github.com/chibicode/waza.chibicode.com)でホスティングされています。
+
+<a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large" data-lang="ja"></a>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US" ><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
