@@ -40,7 +40,6 @@
 
 * [shu@chibicode.com](mailto:shu@chibicode.com)
 * [Twitter](http://twitter.com/chibicode)
-* [Facebook](http://facebook.com/shu)
 * [GitHub](http://github.com/chibicode)
 * [LinkedIn](http://www.linkedin.com/in/chibicode)
 * [Google+](https://plus.google.com/110325199858284431541?rel=author)
