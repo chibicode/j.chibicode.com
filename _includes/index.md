@@ -54,7 +54,7 @@
 
 #### 大阪府立天王寺高等学校での講演「アメリカの大学について」2013/7/19
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/30476181" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/30476181?rel=0" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ## 奥付
 
