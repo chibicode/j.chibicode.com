@@ -58,7 +58,7 @@
 
 ## 奥付
 
-このページは[Solo](https://github.com/chibicode/solo)という[Jekyll](http://jekyllrb.com/)のテーマで作成され、[GitHub](https://github.com/chibicode/waza.chibicode.com)でホスティングされています。
+このページは[Solo](https://github.com/chibicode/solo)という[Jekyll](http://jekyllrb.com/)のテーマで作成され、[GitHub](https://github.com/chibicode/j.chibicode.com)でホスティングされています。
 
 <a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large" data-lang="ja"></a>
 
