@@ -11,38 +11,22 @@
 * 1988年1月26日大阪生まれ・横浜育ち
 * 2000年(中1)から現在まで米国在住
 * 2010年に[カーネギーメロン大学](http://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%AE%E3%83%BC%E3%83%A1%E3%83%AD%E3%83%B3%E5%A4%A7%E5%AD%A6)修士卒
-* 2012年に日本の実家で数ヶ月のニート経験
+* 2012年3月から2012年9月までニート
 * 2012年9月からシリコンバレーの教育系ベンチャー・[EdSurge](http://www.edsurge.com/)社でデザイナー
 
 ## 書いたもの
 
-* **[日本語ブログ (naze.chibicode.com)](http://naze.chibicode.com/)**
+* **[Naze](http://naze.chibicode.com/)**
 
-  このブログで一番読まれた記事は[Yコンビネーター主催のイベントに参加してから、「たたかう」と「にげる」について考えるようになったという話](http://naze.chibicode.com/post/66112027707/y)です。2万人弱に読まれました。
+  日本語ブログです。
 
-* **[Waza (waza.chibicode.com)](http://waza.chibicode.com/)**
+* **[Waza](http://waza.chibicode.com/)**
 
   自分の仕事術や読書リストを公開しています。
-
-* **[メガネが壊れたときの話](https://medium.com/in-japanese/b5c7fcb1d21a)**
-
-  Medium.comで公開している日本語記事です。
-
-* **[エンジニアTypeの連載](http://engineer.typemag.jp/category/knowhow/from_silicon_valley)**
-
-  2012年に寄稿していました。一番読まれた記事は[こちらです](http://engineer.typemag.jp/article/shusaku-uesugi-5)。
 
 * **[Teaching Someone To Code Is Partly A Hardware Problem](https://medium.com/what-i-learned-building/fe6a2067d770)**
 
   Medium.comで公開した英語記事です。2013年8月にMedium.com上で最も読まれた記事Top50に[ランクインしました](https://medium.com/top-100/august-2013)。
-
-## 連絡先
-
-* [shu@chibicode.com](mailto:shu@chibicode.com)
-* [Twitter](http://twitter.com/chibicode)
-* [GitHub](http://github.com/chibicode)
-* [LinkedIn](http://www.linkedin.com/in/chibicode)
-* [Google+](https://plus.google.com/110325199858284431541?rel=author)
 
 ## 反響のあったツイート
 
@@ -56,10 +40,13 @@
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/30476181?rel=0" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-## 奥付
+## 連絡先
 
-このページは[Solo](https://github.com/chibicode/solo)という[Jekyll](http://jekyllrb.com/)のテーマで作成され、[GitHub](https://github.com/chibicode/j.chibicode.com)でホスティングされています。
+* [shu@chibicode.com](mailto:shu@chibicode.com)
+* [Facebook](http://facebook.com/shu)
+* [Twitter](http://twitter.com/chibicode)
+* [GitHub](http://github.com/chibicode)
+* [LinkedIn](http://www.linkedin.com/in/chibicode)
+* [Google+](https://plus.google.com/110325199858284431541?rel=author)
 
 <a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large" data-lang="ja"></a>
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US" ><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
