@@ -16,11 +16,8 @@
 
 ## 書いたもの
 
-* **[Naze](http://naze.chibicode.com/)**
-
-  日本語ブログです。
-
-* **[Waza](http://waza.chibicode.com/)**
+* **[Naze](http://naze.chibicode.com/)** (日本語ブログ)
+* **[Waza](http://waza.chibicode.com/)** (仕事術/読書リスト)
 
   自分の仕事術や読書リストを公開しています。
 
