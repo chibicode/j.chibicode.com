@@ -14,7 +14,7 @@
 * 2012年3月から2012年9月までニート
 * 2012年9月からシリコンバレーの教育系ベンチャー・[EdSurge](http://www.edsurge.com/)社でデザイナー
 
-## ブログ
+## 日本語ブログ
 
 [![naze](http://naze.chibicode.com/public/images/naze/naze.001.jpg)](http://naze.chibicode.com)
 
