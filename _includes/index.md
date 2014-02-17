@@ -19,12 +19,6 @@
 * **[Naze](http://naze.chibicode.com/)** (日本語ブログ)
 * **[Waza](http://waza.chibicode.com/)** (仕事術/読書リスト)
 
-  自分の仕事術や読書リストを公開しています。
-
-* **[Teaching Someone To Code Is Partly A Hardware Problem](https://medium.com/what-i-learned-building/fe6a2067d770)**
-
-  Medium.comで公開した英語記事です。2013年8月にMedium.com上で最も読まれた記事Top50に[ランクインしました](https://medium.com/top-100/august-2013)。
-
 ## 反響のあったツイート
 
 <blockquote class="twitter-tweet" lang="en"><p>都知事選のグラフ作りました。東京都の人口ピラミッド/前都知事選の年代別推定投票率/候補者の年齢 <a href="https://twitter.com/hbkr">@hbkr</a> <a href="http://t.co/As7jnI61xR">pic.twitter.com/As7jnI61xR</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/statuses/426280504770306048">January 23, 2014</a></blockquote>
