@@ -4,7 +4,7 @@
 
 <a href="https://twitter.com/chibicode" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-size="large" data-lang="ja"></a>
 
-![Shu Uesugi](http://chibicode.com/images/shu-uesugi.jpg)
+![Shu Uesugi](/images/shu-uesugi.jpg)
 
 ## 略歴
 
@@ -16,7 +16,7 @@
 
 ## 日本語ブログ
 
-[![naze](http://naze.chibicode.com/public/images/naze/naze.001.jpg)](http://naze.chibicode.com)
+[![naze](/images/naze.jpg)](http://naze.chibicode.com)
 
 ## 反響のあったツイート
 
