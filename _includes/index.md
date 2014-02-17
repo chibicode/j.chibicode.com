@@ -33,7 +33,7 @@
 
 ## 連絡先
 
-* [shu@chibicode.com](mailto:shu@chibicode.com)
+* メール: [shu@chibicode.com](mailto:shu@chibicode.com)
 * [Facebook](http://facebook.com/shu)
 * [Twitter](http://twitter.com/chibicode)
 * [GitHub](http://github.com/chibicode)
