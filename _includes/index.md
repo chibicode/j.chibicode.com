@@ -35,8 +35,9 @@
 * メール: [shu@chibicode.com](mailto:shu@chibicode.com)
 * [Facebook](http://facebook.com/shu)
 * [Twitter](http://twitter.com/chibicode)
-* [Instagram](http://instagram.com/chibicode)
 * [GitHub](http://github.com/chibicode)
+* [Instagram](http://instagram.com/chibicode)
+* [Tumblr](http://off.chibicode.com)
 * [LinkedIn](http://www.linkedin.com/in/chibicode)
 * [Google+](https://plus.google.com/110325199858284431541?rel=author)
 
