@@ -30,14 +30,14 @@
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/30476181?rel=0" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-## 連絡先
+## リンク・連絡先
 
 * メール: [shu@chibicode.com](mailto:shu@chibicode.com)
+* [真面目じゃないことを日本語・英語両方で書いているTumblr](http://off.chibicode.com)
 * [Facebook](http://facebook.com/shu)
 * [Twitter](http://twitter.com/chibicode)
 * [GitHub](http://github.com/chibicode)
 * [Instagram](http://instagram.com/chibicode)
-* [Tumblr](http://off.chibicode.com)
 * [LinkedIn](http://www.linkedin.com/in/chibicode)
 * [Google+](https://plus.google.com/110325199858284431541?rel=author)
 
