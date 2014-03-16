@@ -18,6 +18,12 @@
 
 [![naze](/images/naze.jpg)](http://naze.chibicode.com)
 
+### 人気のあった記事
+
+* [「どうすれば日本は良くなるか」という質問に対する、わたしなりの答え](http://naze.chibicode.com/japan/)
+* [わたしが1年間に送ったメールのうち40件を公開しました](http://naze.chibicode.com/40-emails/)
+* [Yコンビネーター主催のイベントに参加してから、「たたかう」と「にげる」について考えるようになったという話](http://naze.chibicode.com/post/66112027707/y/)
+
 ## 反響のあったツイート
 
 <blockquote class="twitter-tweet" lang="en"><p>都知事選のグラフ作りました。東京都の人口ピラミッド/前都知事選の年代別推定投票率/候補者の年齢 <a href="https://twitter.com/hbkr">@hbkr</a> <a href="http://t.co/As7jnI61xR">pic.twitter.com/As7jnI61xR</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/statuses/426280504770306048">January 23, 2014</a></blockquote>
