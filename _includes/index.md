@@ -11,7 +11,7 @@
 * 1988年1月26日大阪生まれ・横浜育ち
 * 2000年(中1)から現在まで米国在住
 * 2010年に[カーネギーメロン大学](http://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%AE%E3%83%BC%E3%83%A1%E3%83%AD%E3%83%B3%E5%A4%A7%E5%AD%A6)修士卒
-* 2012年3月から2012年9月までニート
+* 2012年3月から2012年9月までニート([当時の記録](http://engineer.typemag.jp/article/shusaku-uesugi-5))
 * 2012年9月からシリコンバレーの教育系ベンチャー・[EdSurge](http://www.edsurge.com/)社でデザイナー
 
 ## 日本語ブログ
