@@ -43,7 +43,6 @@
 ## リンク・連絡先
 
 * メール: [shu@chibicode.com](mailto:shu@chibicode.com)
-* [真面目じゃないことを日本語・英語両方で書いているTumblr](http://off.chibicode.com)
 * [Facebook](http://facebook.com/shu)
 * [Twitter](http://twitter.com/chibicode)
 * [GitHub](http://github.com/chibicode)
